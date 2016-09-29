@@ -38,7 +38,7 @@ rm -rf 文件名       强制删除文件
 git checkout xxxx.xx  恢复删除文件（之前必须存在于版本历史内）
 
 当创建一个空项目，未勾选readme时，     在本地创建完项目后，做完新版本后。执行：
-git remove add arigin https://github.com/zhouxuanpo/xxxxxxxx.git
+git remote add origin https://github.com/zhouxuanpo/xxxxxxxx.git
 git push -u origin master
 
 
